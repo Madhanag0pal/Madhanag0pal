@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhanag0pal
+- 👋 Hi, I’m Madhan (@Madhanag0pal)
 - 👀 I’m interested in DIY's, Cooking, Problem solving.
 - 🌱 I’m currently learning Ruby on rails.
 - 💞️ I’m looking to collaborate on ...
